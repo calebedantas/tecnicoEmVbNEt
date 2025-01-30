@@ -1,0 +1,4 @@
+C:\Users\calebe.gomes\source\repos\Teste3\Teste3\obj\Debug\Teste3.vbproj.AssemblyReference.cache
+C:\Users\calebe.gomes\source\repos\Teste3\Teste3\obj\Debug\Teste3.Resources.resources
+C:\Users\calebe.gomes\source\repos\Teste3\Teste3\obj\Debug\Teste3.vbproj.GenerateResource.cache
+C:\Users\calebe.gomes\source\repos\Teste3\Teste3\obj\Debug\Teste3.vbproj.CoreCompileInputs.cache
